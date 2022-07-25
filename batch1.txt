@@ -1,1 +1,2 @@
 This is batch1 file.
+After creating a new branch
