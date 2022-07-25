@@ -1,2 +1,4 @@
 This is batch1 file.
 After creating a new branch
+
+Add a new line after edited in another branch.
